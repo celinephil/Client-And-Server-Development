@@ -1,6 +1,13 @@
-# Austin Animal Shelter Dashboard :dog:	
+<h1 align="center">
+    <br>
+    Austin Animal Shelter Dashboard :dog:	
+</h1>
 
+<div align="center">
+ 
 [![License badge](https://img.shields.io/badge/License-MIT-red.svg?style=for-the-badge&logo=github)](LICENSE "GitHub MIT License") [![Generic badge](https://img.shields.io/badge/Language-Python-blue.svg)](https://www.python.org/) [![Generic badge](https://img.shields.io/badge/Language-JavaScript-blue.svg)](https://www.javascript.com/) [![Generic badge](https://img.shields.io/badge/Database-MongoDB-yellow.svg)](https://www.mongodb.com/) [![Generic badge](https://img.shields.io/badge/Development_Tool-Jupyter_Notebook-orange.svg)](https://jupyter.org/) [![Generic badge](https://img.shields.io/badge/OS-Linux-pink.svg)](https://www.linux.org/) [![Generic badge](https://img.shields.io/badge/Tools-PyMongo-purple.svg)](https://pymongo.readthedocs.io/en/stable/) [![Generic badge](https://img.shields.io/badge/Tools-Mongo_Shell-purple.svg)](https://www.mongodb.com/docs/v4.4/mongo/) [![Generic badge](https://img.shields.io/badge/Framework-Dash-green.svg)](https://plotly.com/dash/) [![Generic badge](https://img.shields.io/badge/Graphing_Library-Plotly-sage.svg)](https://plotly.com/)
+
+ </div>
 
 ## Competency
 > Learn how to apply database systems concepts and principles to develop client/server applications that interface client-side code with databases. Develop an application that integrates with current and emerging technologies in an effective and efficient manner. 
