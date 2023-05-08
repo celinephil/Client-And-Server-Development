@@ -62,6 +62,16 @@ While building the Dashboard web application, I encountered a challenge. Though,
 ![StartingState](https://user-images.githubusercontent.com/88872392/236719473-3be568d7-bbff-4fd8-8b06-d582c03d5413.png)
 ![Reset2](https://user-images.githubusercontent.com/88872392/236719483-5e8ffd1b-ac82-4e80-ab35-d25963dd7eb5.png)
 
+![WaterRescue](https://user-images.githubusercontent.com/88872392/236719600-76b74b07-abaf-4057-b05b-e6d3b267d61c.png)
+![WaterRescue2](https://user-images.githubusercontent.com/88872392/236719593-105ce524-8c17-4f48-91d5-2af3ab998521.png)
 
+![MountainWildernessRescue](https://user-images.githubusercontent.com/88872392/236719628-c27fdd1c-284c-4148-9a9f-bcbf6e5724a2.png)
+![MountainWildernessRescue2](https://user-images.githubusercontent.com/88872392/236719673-7d165afe-8037-400e-98ec-b45d65d567ba.png)
+
+![DisasterIndividualTracking](https://user-images.githubusercontent.com/88872392/236719754-d90424e4-36ec-456a-984e-4a257e7c1c67.png)
+![DisasterIndividualTracking2](https://user-images.githubusercontent.com/88872392/236719760-8a124beb-cb66-4e97-bd38-a24e4093d40f.png)
+
+![Reset](https://user-images.githubusercontent.com/88872392/236719777-e2dc5be0-a39f-4e4f-bc21-9c4dcf4ddd32.png)
+![Reset2](https://user-images.githubusercontent.com/88872392/236719784-76c55d04-f629-4fa6-9e66-12a73cdb2d41.png)
 ---
 *[Updated May 2023 by celinephil]*
