@@ -1,6 +1,12 @@
 # Austin Animal Shelter Dashboard :dog:	
 
-[![Generic badge](https://img.shields.io/badge/Language-Python-blue.svg)](https://www.python.org/) [![Generic badge](https://img.shields.io/badge/Database-MongoDB-yellow.svg)](https://www.mongodb.com/) [![Generic badge](https://img.shields.io/badge/Development_Tool-Jupyter_Notebook-orange.svg)](https://jupyter.org/) [![Generic badge](https://img.shields.io/badge/OS-Linux-pink.svg)](https://www.linux.org/) [![Generic badge](https://img.shields.io/badge/Tools-PyMongo-blue.svg)](https://pymongo.readthedocs.io/en/stable/)
+[![Generic badge](https://img.shields.io/badge/Language-Python-blue.svg)](https://www.python.org/) [![Generic badge](https://img.shields.io/badge/Language-JavaScript-blue.svg)](https://www.javascript.com/) [![Generic badge](https://img.shields.io/badge/Database-MongoDB-yellow.svg)](https://www.mongodb.com/) [![Generic badge](https://img.shields.io/badge/Development_Tool-Jupyter_Notebook-orange.svg)](https://jupyter.org/) [![Generic badge](https://img.shields.io/badge/OS-Linux-pink.svg)](https://www.linux.org/) [![Generic badge](https://img.shields.io/badge/Tools-PyMongo-blue.svg)](https://pymongo.readthedocs.io/en/stable/) [![Generic badge](https://img.shields.io/badge/Tools-Mongo_Shell-blue.svg)](https://www.mongodb.com/docs/v4.4/mongo/)
+
+## Competency
+> Learn how to apply database systems concepts and principles to develop client/server applications that interface client-side code with databases. Develop an application that integrates with current and emerging technologies in an effective and efficient manner. 
+
+## Scenario :memo:
+
 
 ## Reflection :pencil2:	
 To write programs that are maintainable, readable, and adaptable, I ensure that the code was up to high standards such as in the areas of industry best practices. Additionally, utilizing encapsulation assisted in constructing code that would be readable, repeatable, and adaptable. The advantages of working with CRUD is that the developer can balance the various operations that are needed to take place for the database that was in Project One. To add on, CRUD is essential to implementing a database application. 
