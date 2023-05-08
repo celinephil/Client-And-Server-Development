@@ -1,5 +1,4 @@
 # Austin Animal Shelter Dashboard :dog:	
-## Client And Server Development
 
 ### How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
 To write programs that are maintainable, readable, and adaptable, I ensured that the code was up to high standards such as in the areas of industry best practices. Additionally, utilizing encapsulation assisted in construcgting code that would be readable, repeatable, and adaptable. The advantages of working with CRUD is that the developer can balance the various operations that are needed to take place for the database that was in Project One. To add on, CRUD is essential to implementing a database application. 
