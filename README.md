@@ -53,3 +53,12 @@ To write programs that are maintainable, readable, and adaptable, I ensure that 
 As a computer scientist, I believe that approaching a problem needs exceptional attention to detail and critical analysis into the issue at hand. Such as my approach to the database and dashbaord requirments that Grazioso Salvare requested, I had utilize tools such as pymongo, jupyter notebook, and mongoDB. These tools not only made the process of building the project run smooth but also helped in ensuring that the expected outcome would result in a success. My approach for this project differed from previous assignments in past courses because I had to implement the CRUD operation as well as using the Mongo module to query the database. Additionally, with this project, it was vital to work on each principle of the CRUD method each week. This helped when it came to unit tests beecause it provided me with more time to integrate different structures for each CRUD functionality as well as ensuring that the minute details are up to standards. I would most definitely use the CRUD method in the future to create databases to meet other client requests. I also enjoyed how this project gave me a feel for real world scenarios. 
 
 Computer scientists are unique individuals that provide a specific expertise in the tech industry. Though this can be a very broad statement, computer scientists are the true brains behind technology. What they do, matters, because their work goes unnoticed especially when it comes to business functions. They play a major role in businesses running and without them business structures can crumble. My work on this type of project can help a company to do their work better because the companies and  team members can efficiently benefit from data being found fast and effectively. 
+
+## Challenges 
+While building the Dashboard web application, I encountered a challenge. Though, I was able to come overcome it. The challenge was formatting the chart and geolocation map so that they would be side by side. I was able to overcome this by going back to my readings and taking notes that I can refer to when necessary. Another challenge was Apporto itself. Apporto was not as reliable since it can get really slow at loading data to the screen. This in turn is time consuming. Despite the challenges, I had a great time constructing this web application and I do believe that my hard work paid off.
+
+## Screenshots :camera_flash:
+
+
+---
+*[Updated May 2023 by celinephil]*
