@@ -59,10 +59,9 @@ While building the Dashboard web application, I encountered a challenge. Though,
 
 ## Screenshots :camera_flash:
 
-<div style="position: relative;">
-    <img src="AASD Screenshots/StartingState.png" alt="First Image" width="500px">
-    <img src="second-image.png" alt="Second Image" style="position: absolute; top: 0; left: 0;" width="500px">
-</div>
+![StartingState](https://user-images.githubusercontent.com/88872392/236719473-3be568d7-bbff-4fd8-8b06-d582c03d5413.png)
+![Reset2](https://user-images.githubusercontent.com/88872392/236719483-5e8ffd1b-ac82-4e80-ab35-d25963dd7eb5.png)
+
 
 ---
 *[Updated May 2023 by celinephil]*
