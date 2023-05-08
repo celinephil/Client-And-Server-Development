@@ -59,7 +59,7 @@ While building the Dashboard web application, I encountered a challenge. Though,
 
 ## Screenshots :camera_flash:
 
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div style="text-align: left;">
     <img src="AASD Screenshots/StartingState.png" width="400px" />
     <img src="AASD Screenshots/Reset2.png" width="400px" />
 </div>
