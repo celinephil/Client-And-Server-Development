@@ -33,9 +33,11 @@ mongo --port xxxxx  --authenticationDatabase "admin" -u "admin" -p
 8. Create a method for update.  
 9. Create a method for delete.  
 10. Create and run Python testing script in Jupyter Notebook. 
-a. Make any necessary changes to ensure the code is functional.  
+
+⋅⋅⋅Make any necessary changes to ensure the code is functional.  
 11. Create Dashboard web application. 
-a. Include chart of choice, geolocation map, widgets, and interactive data table. 
+
+⋅⋅⋅Include chart of choice, geolocation map, widgets, and interactive data table. 
 12. Create callback for database queries and map updates. 
 13. Run the ipynb file and ensure the dashboard is fully functional and includes the necessary features, widgets, and tools.  
 
