@@ -59,9 +59,10 @@ While building the Dashboard web application, I encountered a challenge. Though,
 
 ## Screenshots :camera_flash:
 
-AASD Screenshots/StartingState.png
-AASD Screenshots/Reset2.png
-
+<div style="text-align: center;">
+    <img src="AASD Screenshots/StartingState.png" width="400px" />
+    <img src="AASD Screenshots/Reset2.png" width="400px" />
+</div>
 
 ---
 *[Updated May 2023 by celinephil]*
