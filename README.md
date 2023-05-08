@@ -59,6 +59,9 @@ While building the Dashboard web application, I encountered a challenge. Though,
 
 ## Screenshots :camera_flash:
 
+AASD Screenshots/StartingState.png
+AASD Screenshots/Reset2.png
+
 
 ---
 *[Updated May 2023 by celinephil]*
