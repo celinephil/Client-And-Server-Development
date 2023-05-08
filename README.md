@@ -40,12 +40,12 @@ mongo --port xxxxx  --authenticationDatabase "admin" -u "admin" -p
 13. Run the ipynb file and ensure the dashboard is fully functional and includes the necessary features, widgets, and tools.  
 
 ## Installation 
-- MongoDB – To install, simply go to https://www.mongodb.com/docs/manual/installation/ and select the desired operating system.  
+- MongoDB – This is used for our database. To install, simply go to https://www.mongodb.com/docs/manual/installation/ and select the desired operating system you will be using.  
 - Pymongo – To install, simply go to https://pymongo.readthedocs.io/en/stable/installation.html and follow the manual instructions for installation.  
-- Python – To install, simply go to https://realpython.com/installing-python/ which has detailed instructions on installing the program.  
-- Jupyter Notebooks – To install, simply go to https://jupyter.org/install and follow the installation instructions.  
-- Dash – This is a framework that can be installed by simply going to https://plotly.com/python/getting-started/ to get started. 
-- Plotly – To create charts such as the pie chart, plotly is a tool that can assist with this need. Simply review the instructions and documents at https://pypi.org/project/dash/ and follow the installation instructions provided on the website.  
+- Python – The programming language we will be using. To install, simply go to https://realpython.com/installing-python/ which has detailed instructions on installing the program.  
+- Jupyter Notebooks – THe client-side dashboard will be created in this IDE and web tool. To install, simply go to https://jupyter.org/install and follow the installation instructions.  
+- Dash – This framework allows us to build the web-based application. The framework can be installed by simply going to https://plotly.com/python/getting-started/ to get started. 
+- Plotly – To create charts such as the pie chart or graph, plotly is a tool that can assist with this need. Simply review the instructions and documents at https://pypi.org/project/dash/ and follow the installation instructions provided on the website.  
 
 ## Reflection :pencil2:	
 To write programs that are maintainable, readable, and adaptable, I ensure that the code was up to high standards such as in the areas of industry best practices. Additionally, utilizing encapsulation assisted in constructing code that would be readable, repeatable, and adaptable. The advantages of working with CRUD is that the developer can balance the various operations that are needed to take place for the database that was in Project One. To add on, CRUD is essential to implementing a database application. 
