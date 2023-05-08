@@ -19,7 +19,7 @@ Grazioso Salvare has also requested that the code for this project be open sourc
 ## Motivation 
 The motivation behind the creation and maintenance of the project is to search for good candidates of dog trainers to train to become search-and-rescue companions. With MongoDB, the database from the animal shelters can be quickly and easily setup. Using the CRUD functionality for the animal database, the client, Grazioso Salvare can manage their navigation and records of data.  
 
-# Steps 
+## Steps 
 To obtain a local copy and get the program up and running, please follow the following example steps: 
 1. Create a simple Mongo Database named “AAC”. 
 2. Create administrator account with full privileges to the “AAC” database. 
