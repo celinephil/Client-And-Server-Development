@@ -60,7 +60,7 @@ While building the Dashboard web application, I encountered a challenge. Though,
 ## Screenshots :camera_flash:
 
 <div style="position: relative;">
-    <img src="first-image.jpg" alt="First Image" width="500px">
+    <img src="AASD Screenshots/StartingState.png" alt="First Image" width="500px">
     <img src="second-image.png" alt="Second Image" style="position: absolute; top: 0; left: 0;" width="500px">
 </div>
 
