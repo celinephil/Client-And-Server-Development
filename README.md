@@ -20,7 +20,6 @@ Grazioso Salvare has also requested that the code for this project be open sourc
 The motivation behind the creation and maintenance of the project is to search for good candidates of dog trainers to train to become search-and-rescue companions. With MongoDB, the database from the animal shelters can be quickly and easily setup. Using the CRUD functionality for the animal database, the client, Grazioso Salvare can manage their navigation and records of data.  
 
 # Steps 
-
 To obtain a local copy and get the program up and running, please follow the following example steps: 
 1. Create a simple Mongo Database named “AAC”. 
 2. Create administrator account with full privileges to the “AAC” database. 
@@ -55,10 +54,9 @@ As a computer scientist, I believe that approaching a problem needs exceptional 
 Computer scientists are unique individuals that provide a specific expertise in the tech industry. Though this can be a very broad statement, computer scientists are the true brains behind technology. What they do, matters, because their work goes unnoticed especially when it comes to business functions. They play a major role in businesses running and without them business structures can crumble. My work on this type of project can help a company to do their work better because the companies and  team members can efficiently benefit from data being found fast and effectively. 
 
 ## Challenges 
-While building the Dashboard web application, I encountered a challenge. Though, I was able to come overcome it. The challenge was formatting the chart and geolocation map so that they would be side by side. I was able to overcome this by going back to my readings and taking notes that I can refer to when necessary. Another challenge was Apporto itself. Apporto was not as reliable since it can get really slow at loading data to the screen. This in turn is time consuming. Despite the challenges, I had a great time constructing this web application and I do believe that my hard work paid off.
+While building the Dashboard web application, I encountered a challenge. Though, I was able to come overcome it. The challenge was formatting the chart and geolocation map so that they would be side by side. Additionally, the functionality of my dashboard wasn't up to my standards. Despite, I overcame these challenges by being more attentive to each detail and the CRUD operation to ensure that everything flowed all together. Despite the challenges, I truly enjoyed working on this project to create a successful dashboard using various tools and resources. 
 
 ## Screenshots :camera_flash:
-
 ### Starting State of the dashboard
 ![StartingState](https://user-images.githubusercontent.com/88872392/236719473-3be568d7-bbff-4fd8-8b06-d582c03d5413.png)
 ![Reset2](https://user-images.githubusercontent.com/88872392/236719483-5e8ffd1b-ac82-4e80-ab35-d25963dd7eb5.png)
