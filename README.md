@@ -6,7 +6,15 @@
 > Learn how to apply database systems concepts and principles to develop client/server applications that interface client-side code with databases. Develop an application that integrates with current and emerging technologies in an effective and efficient manner. 
 
 ## Scenario :memo:
+You work for Global Rain, a software engineering company that specializes in custom software design and development. Your team has been assigned to work on a project for an innovative international rescue-animal training company, Grazioso Salvare. You have been made the lead developer on this project.
 
+As part of its work, Grazioso Salvare identifies dogs that are good candidates for search-and-rescue training. When trained, these dogs are able to find and help to rescue humans or other animals, often in life-threatening conditions. To help identify dogs for training, Grazioso Salvare has reached an agreement with a non-profit agency that operates five animal shelters in the region around Austin, Texas. This non-profit agency will provide Grazioso Salvare with data from their shelters.
+
+In meeting with the client, Grazioso Salvare, you have discovered that they look for certain profiles in dogs to train. For instance, search-and-rescue training is generally more effective for dogs that are no more than two years old. Additionally, certain breeds of dogs are proficient at different types of rescue, such as water rescue, mountain or wilderness rescue, locating humans after a disaster, or finding a specific human by tracking their scent.
+
+Grazioso Salvare is seeking a software application that can work with existing data from the animal shelters to identify and categorize available dogs. Global Rain has contracted for a full stack development of this application that will include a database and a client-facing web application dashboard, through which users at Grazioso Salvare will access the database.
+
+Grazioso Salvare has also requested that the code for this project be open source and accessible on GitHub, so that it may be used and adapted by similar organizations. To that end, they have asked that you also create a README file to accompany your work.
 
 ## Reflection :pencil2:	
 To write programs that are maintainable, readable, and adaptable, I ensure that the code was up to high standards such as in the areas of industry best practices. Additionally, utilizing encapsulation assisted in constructing code that would be readable, repeatable, and adaptable. The advantages of working with CRUD is that the developer can balance the various operations that are needed to take place for the database that was in Project One. To add on, CRUD is essential to implementing a database application. 
