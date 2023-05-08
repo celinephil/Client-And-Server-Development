@@ -17,7 +17,7 @@ Grazioso Salvare is seeking a software application that can work with existing d
 Grazioso Salvare has also requested that the code for this project be open source and accessible on GitHub, so that it may be used and adapted by similar organizations.
 
 ## Motivation 
-The motivation behind the creation and maintenance of the project is to search for good candidates of dogs to train to become search-and-rescue companions. With MongoDB, the database from the animal shelters can be quickly and easily setup. Using the CRUD functionality for the animal database, the client, Grazioso Salvare can manage their navigation and records of data.  
+The motivation behind the creation and maintenance of the project is to search for good candidates of dog trainers to train to become search-and-rescue companions. With MongoDB, the database from the animal shelters can be quickly and easily setup. Using the CRUD functionality for the animal database, the client, Grazioso Salvare can manage their navigation and records of data.  
 
 # Steps 
 
